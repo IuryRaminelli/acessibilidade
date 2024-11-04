@@ -30,14 +30,6 @@
         border-radius: 10px;
         border: 1px solid #ddd;
     }
-
-    h2 {
-        margin-bottom: 10px;
-    }
-
-    p {
-        margin-bottom: 15px;
-    }
     </style>
 </head>
 <body>

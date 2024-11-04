@@ -40,8 +40,8 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
                         <ul class="navbar-nav mx-auto">
-                            <li class="nav-item"><a class="nav-link" href="">Sobre</a></li>
-                            <li class="nav-item"><a class="nav-link" href="">Membros</a></li>
+                            <li class="nav-item"><a class="nav-link" href="">É</a></li>
+                            <li class="nav-item"><a class="nav-link" href="">Isso</a></li>
                         </ul>
                     </div>
                 </div>
