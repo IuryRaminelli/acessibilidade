@@ -40,19 +40,23 @@
     ?>
     <div class="container">
 
-        <br><br><br><br>
+        <br><br><br><br><br>
         
         <div class="row g-0">
             <article style="display: flex; align-items: center; gap: 10px;">
                 <div>
                     <h2 id="titulo1">Inclusão digital pela interface gráfica</h2>
-                    <p id="noticia1">O time da cidade venceu por 3 a 1 em uma partida emocionante neste fim de semana.</p>
+                    <p id="noticia1">O conteúdo de alguma coisa? Sei lá.</p>
                 </div>
                 <button type="submit" class="btn-audio" name="acao" onclick="lerNoticia('titulo1', 'noticia1')">
                     <img src="img/som.png" width="28" height="28" alt="">
                 </button>
             </article>
         </div>
+
+        <?php
+            include_once 'footer.php';
+        ?>
     </div>
 </body>
 </html>
