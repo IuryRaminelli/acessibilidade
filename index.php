@@ -22,12 +22,60 @@
                     <h2 id="titulo1">Inclusão digital pela interface gráfica</h2>
                     <p id="noticia1">O conteúdo de alguma coisa? Sei lá.</p>
                 </div>
+                <br>
                 <button type="submit" class="btn-audio" name="acao" onclick="lerNoticia('titulo1', 'noticia1')">
                     <img src="img/som.png" width="28" height="28" alt="">
                 </button>
             </article>
+            <br>
         </div>
+        <a href="teste.php">
+            <button type="submit" class="btn" name="mais">
+                Ver mais
+            </button>
+        </a>
+        
+        <br><br><br><br>
 
+        <div class="row g-0">
+            <article style="display: flex; align-items: center; gap: 10px;">
+                <div>
+                    <h2 id="titulo1">Normas e Padrões Internacionais sobre Acessibilidade</h2>
+                    <p id="noticia1">O conteúdo de alguma coisa? Sei lá.</p>
+                </div>
+                <br>
+                <button type="submit" class="btn-audio" name="acao" onclick="lerNoticia('titulo1', 'noticia1')">
+                    <img src="img/som.png" width="28" height="28" alt="">
+                </button>
+            </article>
+            <br>
+        </div>
+        <a href="teste.php">
+            <button type="submit" class="btn" name="mais">
+                Ver mais
+            </button>
+        </a>
+        
+        <br><br><br><br>
+
+        <div class="row g-0">
+            <article style="display: flex; align-items: center; gap: 10px;">
+                <div>
+                    <h2 id="titulo1">Informações sobre computador</h2>
+                    <p id="noticia1">O conteúdo de alguma coisa? Sei lá.</p>
+                </div>
+                <br>
+                <button type="submit" class="btn-audio" name="acao" onclick="lerNoticia('titulo1', 'noticia1')">
+                    <img src="img/som.png" width="28" height="28" alt="">
+                </button>
+            </article>
+            <br>
+        </div>
+        <a href="teste.php">
+            <button type="submit" class="btn" name="mais">
+                Ver mais
+            </button>
+        </a>
         <?php
             include_once 'footer.php';
         ?>

@@ -9,7 +9,6 @@
     transition: all linear 160ms;
     cursor: pointer;
     margin: 0 !important;
-  
   }
   
   .btn:hover {
@@ -37,13 +36,6 @@
     color: #fff;
 }
 
-article {
-    background-color: #f9f9f9;
-    padding: 20px;
-    border-radius: 10px;
-    border: 1px solid #ddd;
-}
-
 /* header */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
@@ -63,7 +55,7 @@ header{
 }
 
 li{
-    margin-right: 130px;
+    margin-right: 150px;
 }
 
 /* FOOTER */
