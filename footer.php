@@ -3,43 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/EstiloIury.css">
     <title>Document</title>
-    <style>
-        footer {
-            padding: 40px 0;
-            border-top: 1px solid #dee2e6;
-            color: #6c757d;
-        }
-        footer a {
-            color: #6c757d;
-            text-decoration: none;
-        }
-        footer a:hover {
-            color: #343a40;
-            text-decoration: underline;
-        }
-        .footer-logo {
-            margin: 0 15px;
-        }
-        .footer-logo img {
-            border-radius: 10px;
-            transition: transform 0.3s;
-        }
-        .footer-logo img:hover {
-            transform: scale(1.1);
-        }
-        .developed-by {
-            font-weight: bold;
-        }
-        @media (max-width: 768px) {
-            .text-left, .text-right {
-                text-align: center !important;
-            }
-            .mx-auto {
-                margin-top: 20px;
-            }
-        }
-    </style>
 </head>
 <body>
     <footer class="pt-5 my-5 text-body-secondary border-top">

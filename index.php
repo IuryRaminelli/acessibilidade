@@ -4,34 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="js/leitor.js"></script>
+    <link rel="stylesheet" href="css/EstiloIury.css">
     <title>Document</title>
-    <style>
-    .btn-audio {
-        background-color: rgb(37, 41, 68);
-        color: #fff;
-        width: 70px;
-        height: 70px;
-        font-weight: 600;
-        border: none !important;
-        border-radius: 50%;
-        transition: all linear 160ms;
-        cursor: pointer;
-        margin: 0 !important;
-    }
-
-    .btn-audio:hover {
-        transform: scale(1.05);
-        background-color: rgb(37, 41, 68);
-        color: #fff;
-    }
-
-    article {
-        background-color: #f9f9f9;
-        padding: 20px;
-        border-radius: 10px;
-        border: 1px solid #ddd;
-    }
-    </style>
 </head>
 <body>
     <?php

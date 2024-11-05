@@ -11,27 +11,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
-        *{
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        header{
-            position: fixed;
-            z-index: 99;
-            width: 100%;
-            background: rgb(37, 41, 68);
-        }
-
-        li{
-            margin-right: 130px;
-        }
-    </style>
+    <link rel="stylesheet" href="css/EstiloIury.css">
 </head>
 <body>
     <section class="section-inicio">
