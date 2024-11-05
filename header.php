@@ -27,6 +27,10 @@
             width: 100%;
             background: rgb(37, 41, 68);
         }
+
+        li{
+            margin-right: 130px;
+        }
     </style>
 </head>
 <body>
@@ -40,8 +44,9 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
                         <ul class="navbar-nav mx-auto">
-                            <li class="nav-item"><a class="nav-link" href="">É</a></li>
-                            <li class="nav-item"><a class="nav-link" href="">Isso</a></li>
+                            <li class="nav-item"><a class="nav-link" href="">Tema Thiago/Iury</a></li>
+                            <li class="nav-item"><a class="nav-link" href="">Tema Samara/Jorge</a></li>
+                            <li class="nav-item"><a class="nav-link" href="">Info sobre PC</a></li>
                         </ul>
                     </div>
                 </div>

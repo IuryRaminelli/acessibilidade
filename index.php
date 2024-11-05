@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="js/leitor.js"></script>
     <title>Document</title>
     <style>
     .btn-audio {
@@ -33,20 +34,6 @@
     </style>
 </head>
 <body>
-    <script>
-        function lerNoticia(tituloId, noticiaId) {
-            var titulo = document.getElementById(tituloId).textContent;
-            var noticia = document.getElementById(noticiaId).textContent;
-               
-            var textoCompleto = titulo + ". " + noticia;
-            
-            var msg = new SpeechSynthesisUtterance(textoCompleto);
-                
-            msg.lang = 'pt-BR';
-                
-            window.speechSynthesis.speak(msg);
-        }
-    </script>
     <?php
         include_once 'header.php';
         include_once 'vlibras.php';
