@@ -149,7 +149,7 @@
                         <img src="img/som.png" width="28" height="28" alt="">
                     </button>
                 </div>
-                <a href="teste.php" class="align-self-start mt-3">
+                <a href="infopc.php" class="align-self-start mt-3">
                     <button type="submit" class="btn btn-primary" name="mais">
                         Ver mais
                     </button>
