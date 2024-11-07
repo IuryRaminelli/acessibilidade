@@ -80,7 +80,7 @@
                     </button>
                 </div>
                 <a href="teste.php" class="align-self-start mt-3">
-                    <button type="submit" class="btn btn-primary" name="mais">
+                    <button type="submit" class="btn btn-primary" name="mais" href="paginainclusao.php">
                         Ver mais
                     </button>
                 </a>
