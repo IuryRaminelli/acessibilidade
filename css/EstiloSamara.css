@@ -11,23 +11,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #343a40;
 }
 
-/* Navegação */
-#navbar-example3 {
-    background-color: #f1f1f1;
-    padding: 10px;
-    border-radius: 8px;
-}
-
-.nav-link {
-    color: #007bff;
-    text-decoration: none;
-}
-
-.nav-link:hover {
-    color: #0056b3;
-    background-color: #e9ecef;
-}
-
 /* Conteúdo */
 .container {
     max-width: 1200px;
@@ -56,6 +39,10 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 8px;
     overflow: hidden;
     transition: transform 0.3s;
+    width: 950px; /* Largura reduzida */
+    padding: 60px; /* Menor espaço interno */
+    flex-direction: column;
+    align-items: center;
 }
 
 .card:hover {
@@ -64,17 +51,20 @@ h1, h2, h3, h4, h5, h6 {
 
 .card-title {
     color: #007bff;
+    font-size: 2em; /* Tamanho do titulo*/
 }
 
 .card-img-top {
-    max-height: 200px;
+    max-height: 150px; /* Altura da imagem */
     object-fit: cover;
 }
 
 .card-text {
-    font-size: 0.9em;
+    font-size: 1.2em; /* conteudo do texto */
     color: #555;
+    margin: 0.5em 0;
 }
+
 
 /* Outros estilos */
 p {
@@ -86,12 +76,13 @@ p {
 
 img {
     border-radius: 8px;
+    text-align: center;
 }
 
 /* FOOTER */
 
 footer {
-    padding: 40px 0;
+    padding: 30px 0;
     border-top: 1px solid #dee2e6;
     color: #6c757d;
     height: 60px;
