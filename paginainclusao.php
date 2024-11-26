@@ -122,29 +122,29 @@
     </script>
 
 
-    <footer class="pt-5 my-5 text-body-secondary border-top">
-            <div class="row d-flex justify-content-between align-items-center">
-                <div class="nav col-md-3 justify-content-start">
-                    Todos os direitos reservados. &copy; 2024
-                </div>
 
-
-                <div class="col-md-3 text-center mx-auto footer-logo">
-                    <a href="https://sig.iffarroupilha.edu.br/sigaa/public/curso/portal.jsf?id=76320&lc=pt_BR">
-                        <img src="img/logoo-ads.png" alt="Logo ADS" width="120" height="120">
-                    </a>
-                    <a href="https://www.iffarroupilha.edu.br/sao-vicente-do-sul">
-                        <img src="img/logo-iffar-svs.png" alt="Logo IFFar" width="100" height="120">
-                    </a>
-                </div>
-
-
-                <div class="nav col-md-3 justify-content-end">
-                    Feito por Samara Librelotto.
-                </div>
-            </div>
-        </footer>
     
         
 </body>
+
+<footer class="footer-container">
+    <div class="footer-left">
+        Todos os direitos reservados. &copy; 2024
+    </div>
+
+    <div class="footer-center">
+        <a href="https://sig.iffarroupilha.edu.br/sigaa/public/curso/portal.jsf?id=76320&lc=pt_BR">
+            <img src="img/logoo-ads.png" alt="Logo ADS" width="80" height="80">
+        </a>
+        <a href="https://www.iffarroupilha.edu.br/sao-vicente-do-sul">
+            <img src="img/logo-iffar-svs.png" alt="Logo IFFar" width="80" height="80">
+        </a>
+    </div>
+
+    <div class="footer-right">
+        Feito por Samara Librelotto.
+    </div>
+</footer>
+
+
 </html>
