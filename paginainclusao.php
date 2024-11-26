@@ -18,94 +18,95 @@
     <img src="img/imagem1_inclusao.webp" alt="FraseInclusão" width="400" height="300">
     <h1>INCLUSÃO SOCIAL PELA INTERFACE DIGITAL</h1>
     <h2>Para abordar melhor sobre o tema, iremos dividir em tópicos. Dos quais viram em seguida.</h2>
-
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+    <div id="container-texto">
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
-    </div>
 
-    <div class="card text-start">
-        <div class="card-body">
-            <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-            <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
+                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
+                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
+                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
+                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
         </div>
     </div>
 
