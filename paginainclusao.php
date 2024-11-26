@@ -17,7 +17,13 @@
 
     <img src="img/imagem1_inclusao.webp" alt="FraseInclusão" width="400" height="300">
     <h1>INCLUSÃO SOCIAL PELA INTERFACE DIGITAL</h1>
-    <h2>Para abordar melhor sobre o tema, iremos dividir em tópicos. Dos quais viram em seguida.</h2>
+    
+    <h2>O tema "Processos de inclusão social pela interface digital" aborda como as 
+                    tecnologias digitais podem facilitar a inclusão social, promovendo a participação de indivíduos
+                    em diversas esferas da sociedade, que, de outra forma, poderiam ser excluídos devido a
+                    barreiras econômicas, educacionais, geográficas ou físicas.</h2>
+
+    <h3>Para abordar melhor sobre o tema, iremos abordar sobre o assunto, citando exemplos e os seus respectivos termos.</h3>
     <div id="container-texto">
         <div class="card text-start">
             <div class="card-body">
@@ -36,17 +42,9 @@
                     alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
                     em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
                     acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+                  
             </div>
-        </div>
-
-        <div class="card text-start">
-            <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
-            </div>
+            <link rel="stylesheet" href="https://www.cnnbrasil.com.br/nacional/brasil-tem-apenas-1-de-sites-com-acessibilidade/#:~:text=Pesquisa%20realizada%20pelo%20%E2%80%9CMovimento%20Web,menos%20de%201%25%20do%20total.">
         </div>
 
         <div class="card text-start">
