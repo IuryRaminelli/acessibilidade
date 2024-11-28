@@ -18,7 +18,7 @@
         include_once 'vlibras.php';
     ?>
         <section class="section-inicio">
-        <header class="header-inicio">
+       
             <nav class="navbar bg-body-tertiary absolute-top">
                 <div class="container">
                     <a class="navbar-brand" href="index.php"><img src="img/logoo-ads.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top"></a>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
             </nav>
-        </header>
+      
     </section>
 
     <div id="titulo">

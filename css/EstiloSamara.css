@@ -1,3 +1,21 @@
+/* Navegação */
+#navbar-example3 {
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    gap: 50px;
+    justify-content: space-between; 
+    padding: 600px 600px; 
+}
+
+.nav-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #0056b3;
+    background-color: #e9ecef;
+}
 #titulo{
     text-align: center;
     margin-top: 20px;
@@ -9,30 +27,30 @@
 .conteudo-titulo {
     display: flex;
     align-items: center;
-    justify-content: center; /* Mantém os elementos centralizados */
+    justify-content: center; 
     gap: 40px;
     margin-top: 20px;
 }
 
 /* Estilo da imagem (à direita) */
 .conteudo-titulo .head-right {
-    max-width: 30%; /* Reduz o tamanho máximo da imagem */
-    border-radius: 30px; /* Bordas arredondadas */
-    margin-left: 40px; /* Move a imagem para a direita */
+    max-width: 30%; 
+    border-radius: 30px; 
+    margin-left: 40px; 
 }
 
 /* Estilo do texto (à esquerda) */
 .conteudo-titulo .head-left {
-    max-width: 90%; /* Reduz o comprimento máximo do texto */
+    max-width: 90%; 
     text-align: justify;
-    font-size: 0.9em; /* Ajuste do tamanho da fonte */
-    line-height: 1.6; /* Espaçamento entre linhas */
-    color: black; /* Cor do texto */
-    border: 2px solid #0056b3; /* Adiciona borda ao redor do texto */
-    padding: 5px; /* Espaçamento interno */
-    border-radius: 10px; /* Arredonda a borda */
-    background-color: #f9f9f9; /* Fundo claro para destaque */
-    margin-right: 120px; /* Espaçamento à direita do texto */
+    font-size: 0.7em; 
+    line-height: 1.6; 
+    color: black; 
+    border: 2px solid #0056b3; 
+    padding: 5px; 
+    border-radius: 10px; 
+    background-color: #f9f9f9; 
+    margin-right: 120px; 
     justify-content: center;
 }
 
@@ -60,19 +78,19 @@ img {
 
 
 h2 {
-    font-size: 1.2rem; /* Reduzido ainda mais */
+    font-size: 1.2rem; 
     font-weight: normal;
-    color: #444; /* Cor mais suave */
+    color: #444; 
     text-align: center;
-    max-width: 1500px; /* Limita o comprimento */
-    margin: 10px auto; /* Centraliza e adiciona espaço ao redor */
-    line-height: 1.5; /* Melhora a legibilidade */
+    max-width: 1500px; 
+    margin: 10px auto;
+    line-height: 1.5;
 }
 
 h3 {
-    font-size: 1.2rem; /* Reduzido */
+    font-size: 1.2rem; 
     font-weight: normal;
-    color: #666; /* Texto mais claro */
+    color: #666; 
 }
 
 /* Centralização da div de texto */
@@ -80,7 +98,7 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px; /* Espaçamento entre os cards */
+    gap: 20px; 
     padding: 20px;
     max-width: 1200px;
     width: 100%;
@@ -88,7 +106,7 @@ h3 {
 
 /* Estilo dos cards */
 .card {
-    flex: 1 1 calc(50% - 20px); /* Dois cards por linha em tela cheia */
+    flex: 1 1 calc(50% - 20px); 
     max-width: 550px;
     background-color: #ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -110,7 +128,7 @@ h3 {
 
 /* Texto do card */
 .card-text {
-    font-size: 0.9rem; /* Texto menor */
+    font-size: 0.9rem; 
 }
 
 /* Responsividade */
@@ -121,11 +139,11 @@ h3 {
     }
 
     .card {
-        flex: 1 1 calc(100% - 30px); /* Um card por linha em telas menores */
+        flex: 1 1 calc(100% - 30px); 
     }
 
     h1 {
-        font-size: 1.5rem; /* Ajusta tamanho em telas menores */
+        font-size: 1.5rem; 
     }
 
     h2 {
@@ -150,62 +168,62 @@ button:hover {
 /* Container do footer */
 .footer-container {
     display: flex;
-    justify-content: space-between; /* Elementos alinhados horizontalmente */
-    align-items: center; /* Alinhamento vertical */
-    padding: 20px 600px; /* Espaçamento interno (ajustável) */
-    border-top: 1px solid #dee2e6; /* Linha separadora */
-    background-color: #f8f9fa; /* Fundo claro */
-    color: #6c757d; /* Cor do texto */
-    gap: 100px; /* Espaçamento entre os elementos (Flexbox) */
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 20px 600px; 
+    border-top: 1px solid #dee2e6; 
+    background-color: #f8f9fa; 
+    color: #6c757d; 
+    gap: 100px; 
 }
 
 /* Estilo para o texto à esquerda */
 .footer-left {
-    text-align: left; /* Alinha à esquerda */
-    flex: 1; /* Ocupa espaço no lado esquerdo */
+    text-align: left; 
+    flex: 1; 
     font-size: 0.9rem;
-    margin-right: 20px; /* Espaçamento adicional à direita */
+    margin-right: 20px; 
 }
 
 /* Centralização das logos */
 .footer-center {
-    text-align: center; /* Centraliza as logos */
-    flex: 1; /* Ocupa espaço no centro */
-    display: flex; /* Ativa flex para organizar logos */
-    gap: 15px; /* Espaçamento entre as imagens */
-    justify-content: center; /* Mantém centralizado */
+    text-align: center; 
+    flex: 1; 
+    display: flex; 
+    gap: 15px; 
+    justify-content: center; 
 }
 
 .footer-center img {
-    width: 80px; /* Tamanho das logos */
+    width: 80px; 
     height: auto;
     border-radius: 10px;
-    transition: transform 0.3s ease-in-out; /* Animação ao passar o mouse */
+    transition: transform 0.3s ease-in-out; 
 }
 
 .footer-center img:hover {
-    transform: scale(1.1); /* Aumenta o tamanho no hover */
+    transform: scale(1.1); 
 }
 
 /* Estilo para o texto à direita */
 .footer-right {
-    text-align: right; /* Alinha à direita */
-    flex: 1; /* Ocupa espaço no lado direito */
+    text-align: right; 
+    flex: 1; 
     font-size: 0.9rem;
-    margin-left: 20px; /* Espaçamento adicional à esquerda */
+    margin-left: 20px; 
 }
 
 /* Responsividade */
 @media (max-width: 768px) {
     .footer-container {
-        flex-direction: column; /* Empilha os elementos */
-        text-align: center; /* Centraliza os textos */
-        gap: 15px; /* Espaçamento entre os blocos */
+        flex-direction: column; 
+        text-align: center; 
+        gap: 15px; 
     }
 
     .footer-left,
     .footer-center,
     .footer-right {
-        margin: 10px 0; /* Espaçamento entre os elementos no eixo vertical */
+        margin: 10px 0; 
     }
 }
