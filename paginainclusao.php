@@ -42,6 +42,16 @@
                     alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
                     em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
                     acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+            </div>
+        </div>
+
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Conceito de Inclusão Social</h4>
+                <p class="card-text">O pesquisador Romeu Kasumi Sassaki conceitua “inclusão social” 
+                    como o processo pelo qual a sociedade se adapta para poder incluir, 
+                    em seus sistemas sociais gerais, pessoas com necessidades especiais e,
+                     simultaneamente, estas se preparam para assumir seus papéis na sociedade.</p>
                   
             </div>
             <link rel="stylesheet" href="https://www.cnnbrasil.com.br/nacional/brasil-tem-apenas-1-de-sites-com-acessibilidade/#:~:text=Pesquisa%20realizada%20pelo%20%E2%80%9CMovimento%20Web,menos%20de%201%25%20do%20total.">
@@ -49,13 +59,89 @@
 
         <div class="card text-start">
             <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+                <h4 class="card-title">Conceito de Inclusão Digital</h4>
+                <p class="card-text">Inclusão digital é o acesso à informação que está
+                     nos meios digitais e, como ponto de chegada à assimilação da 
+                     informação e sua reelaboração em novo conhecimento, tendo como 
+                     consequência desejável a melhoria da qualidade de vida das pessoas.</p>
             </div>
         </div>
+
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Exemplos de inclusão social 
+                pela interface digital</h4>
+                <p class="card-text">
+                    <li>
+                    Diversos modos de cor para daltônicos
+                    <img src="img/daltonismo.jpg" alt="daltonismo" width="500" height="300">
+                </li>
+                <li>
+                Interface simples e usual para pessoas idosas
+                    <img src="img/interface_simples.jpg" alt="interface_simples" width="300" height="300">
+                </li>
+            </p>
+            </div>
+        </div>
+
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Exemplos de inclusão social 
+                pela interface digital</h4>
+                <p class="card-text">
+                  
+                <li>
+                Auxílio para pessoas com baixa visão, aumentando por exemplo a fonte ou ícones com uma lupa
+                    <img src="img/lupa.jpg" alt="lupa" width="500" height="400">
+                </li>
+                <li>
+                Visualização sonora para deficiente auditivo
+                    <img src="img/visualizacao_sonora.jpg" alt="visualizacao_sonora" width="500" height="300">
+                </li>
+            </p>
+            </div>
+        </div>
+
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Desafios e Limitações</h4>
+                <p class="card-text">
+                    <li>Desigualdade Digital: Discutir a persistência da exclusão digital, 
+                        onde o acesso à tecnologia ainda é limitado por questões 
+                        socioeconômicas e geográficas.
+                    </li>
+                    <li>Barreiras Culturais e Educacionais: As dificuldades enfrentadas 
+                        por algumas populações em se adaptarem às novas tecnologias devido
+                        a falta de conhecimento ou resistência cultural.
+                    </li>
+                    <li>Privacidade e Segurança: A questão de como garantir que a inclusão
+                        digital não comprometa a privacidade e a segurança dos usuários,
+                        especialmente em comunidades vulneráveis.
+                    </li>
+                    </p>
+            </div>
+        </div>
+
+        <div class="card text-start">
+            <div class="card-body">
+                <h4 class="card-title">Tecnologia como Ferramenta de Inclusão</h4>
+                <p class="card-text">
+                <li>Acessibilidade Digital: A importância de criar interfaces e dispositivos 
+                    que sejam acessíveis para pessoas com deficiências, idosos e outras 
+                    comunidades marginalizadas.
+                    </li>
+                    <li>Educação Digital: Iniciativas que promovem a alfabetização digital, 
+                        capacitando pessoas a usarem a tecnologia para melhorar suas condições de vida.
+                    </li>
+                    <li>Plataformas de Participação Social: Como redes sociais, aplicativos e outras
+                         plataformas digitais têm permitido que mais pessoas participem do debate 
+                         público e acessem serviços governamentais.
+                    </li>
+                </p>
+            </div>
+        </div>
+
+
 
         <div class="card text-start">
             <div class="card-body">
@@ -67,45 +153,7 @@
             </div>
         </div>
 
-        <div class="card text-start">
-            <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
-            </div>
-        </div>
-
-        <div class="card text-start">
-            <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
-            </div>
-        </div>
-
-        <div class="card text-start">
-            <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
-            </div>
-        </div>
-
-        <div class="card text-start">
-            <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
-            </div>
-        </div>
+       
     </div>
 
     <button onclick="lerTexto()" style="position: fixed; bottom: 10px; right: 10px; padding: 10px; background-color: #007bff; color: white; border: none; border-radius: 5px;">Ouvir Conteúdo</button>
