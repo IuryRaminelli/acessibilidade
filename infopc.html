@@ -16,16 +16,22 @@
 </head>
 
 <body>
-
-    <?php
-        include_once 'vlibras.php';
-    ?>
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>
 
     <section class="section-inicio">
         <header class="header-inicio">
             <nav class="navbar bg-body-tertiary fixed-top">
                 <div class="container">
-                    <a class="navbar-brand" href="index.php"><img src="img/logoo-ads.png" alt="Logo" width="50"
+                    <a class="navbar-brand" href="index.html"><img src="img/logoo-ads.png" alt="Logo" width="50"
                             height="50" class="d-inline-block align-text-top"></a>
 
 
@@ -38,7 +44,7 @@
                     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
                         aria-labelledby="offcanvasNavbarLabel">
                         <div class="offcanvas-header">
-                            <a class="navbar-brand" href="index.php"><img src="img/logoo-ads.png" alt="Logo" width="50"
+                            <a class="navbar-brand" href="index.html"><img src="img/logoo-ads.png" alt="Logo" width="50"
                                     height="50" class="d-inline-block align-text-top"></a>
                             <button type="button" class="btn-close" data-bs-dismiss="offcanvas"
                                 aria-label="Close"></button>
@@ -46,13 +52,13 @@
                         <div class="offcanvas-body">
                             <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="paginainclusao.php">Interface Gráfica</a>
+                                    <a class="nav-link" href="paginainclusao.html">Interface Gráfica</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="NormasThiago.php">Normas e Padrões</a>
+                                    <a class="nav-link" href="NormasThiago.html">Normas e Padrões</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Computador</a>
+                                    <a class="nav-link" href="infopc.html">Computador</a>
                                 </li>
                             </ul>
                         </div>
