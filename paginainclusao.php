@@ -18,8 +18,8 @@
         include_once 'vlibras.php';
     ?>
         <section class="section-inicio">
-       
-            <nav class="navbar bg-body-tertiary absolute-top">
+        <header class="header-inicio">
+            <nav class="navbar bg-body-tertiary fixed-top">
                 <div class="container">
                     <a class="navbar-brand" href="index.php"><img src="img/logoo-ads.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top"></a>
 
@@ -48,13 +48,13 @@
                     </div>
                 </div>
             </nav>
-      
+            </header>
     </section>
 
     <div id="titulo">
     <h1>INCLUSÃO SOCIAL PELA INTERFACE DIGITAL</h1>
     <div class="conteudo-titulo">
-    <img class="head-right" src="img/imagem1_inclusao.webp" alt="FraseInclusão" width="400" height="300">
+    <img id="inclusao" class="head-right" src="img/imagem1_inclusao.webp" alt="FraseInclusão" width="400" height="300">
     <h2 class="head-left">
         O tema "Processos de inclusão social pela interface digital" aborda como as 
         tecnologias digitais podem facilitar a inclusão social, promovendo a participação de indivíduos

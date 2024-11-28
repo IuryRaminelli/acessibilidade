@@ -1,10 +1,8 @@
 /* Navegação */
 #navbar-example3 {
     background-color: #f1f1f1;
+    padding: 10px;
     border-radius: 8px;
-    gap: 50px;
-    justify-content: space-between; 
-    padding: 600px 600px; 
 }
 
 .nav-link {
@@ -46,7 +44,7 @@
     font-size: 0.7em; 
     line-height: 1.6; 
     color: black; 
-    border: 2px solid #0056b3; 
+    border: 2px solid #e9f819; 
     padding: 5px; 
     border-radius: 10px; 
     background-color: #f9f9f9; 
@@ -68,7 +66,14 @@ body {
 
 /* Centralização do conteúdo */
 img {
-    margin: 20px 0;
+    margin: 2px 0;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+#inclusao {
+    margin: 30px 0;
+    margin-left: 50px;
     max-width: 100%;
     height: auto;
     display: block;
@@ -114,12 +119,12 @@ h3 {
     overflow: hidden;
 }
 
-/* Espaçamento interno do conteúdo do card */
+
 .card-body {
     padding: 20px;
 }
 
-/* Estilo dos títulos */
+
 .card-title {
     font-size: 1.25rem;
     font-weight: bold;
@@ -201,9 +206,7 @@ button:hover {
     transition: transform 0.3s ease-in-out; 
 }
 
-.footer-center img:hover {
-    transform: scale(1.1); 
-}
+
 
 /* Estilo para o texto à direita */
 .footer-right {
@@ -213,17 +216,4 @@ button:hover {
     margin-left: 20px; 
 }
 
-/* Responsividade */
-@media (max-width: 768px) {
-    .footer-container {
-        flex-direction: column; 
-        text-align: center; 
-        gap: 15px; 
-    }
 
-    .footer-left,
-    .footer-center,
-    .footer-right {
-        margin: 10px 0; 
-    }
-}
