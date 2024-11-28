@@ -8,22 +8,67 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <title>InclusãoDigital</title>
+
+
+   
 </head>
 <body>
 
     <?php
         include_once 'vlibras.php';
     ?>
+        <section class="section-inicio">
+        <header class="header-inicio">
+            <nav class="navbar bg-body-tertiary absolute-top">
+                <div class="container">
+                    <a class="navbar-brand" href="index.php"><img src="img/logoo-ads.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top"></a>
 
-    <img src="img/imagem1_inclusao.webp" alt="FraseInclusão" width="400" height="300">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    
+                    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                        <div class="offcanvas-header">
+                            <a class="navbar-brand" href="index.php"><img src="img/logoo-ads.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top"></a>
+                            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                        </div>
+                        <div class="offcanvas-body">
+                            <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="paginainclusao.php">Interface Gráfica</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="NormasThiago.php">Normas e Padrões</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="infopc.php">Computador</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+    </section>
+
+    <div id="titulo">
     <h1>INCLUSÃO SOCIAL PELA INTERFACE DIGITAL</h1>
-    
-    <h2>O tema "Processos de inclusão social pela interface digital" aborda como as 
-                    tecnologias digitais podem facilitar a inclusão social, promovendo a participação de indivíduos
-                    em diversas esferas da sociedade, que, de outra forma, poderiam ser excluídos devido a
-                    barreiras econômicas, educacionais, geográficas ou físicas.</h2>
+    <div class="conteudo-titulo">
+    <img class="head-right" src="img/imagem1_inclusao.webp" alt="FraseInclusão" width="400" height="300">
+    <h2 class="head-left">
+        O tema "Processos de inclusão social pela interface digital" aborda como as 
+        tecnologias digitais podem facilitar a inclusão social, promovendo a participação de indivíduos
+        em diversas esferas da sociedade, que, de outra forma, poderiam ser excluídos devido a
+        barreiras econômicas, educacionais, geográficas ou físicas.
+    </h2>
+
+        
+
+    </div>
+    </div>
 
     <h3>Para abordar melhor sobre o tema, iremos abordar sobre o assunto, citando exemplos e os seus respectivos termos.</h3>
+
     <div id="container-texto">
         <div class="card text-start">
             <div class="card-body">
@@ -37,11 +82,12 @@
 
         <div class="card text-start">
             <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
+                <h4 class="card-title">Segundo o estudo: A Inclusão Digital no Contexto Social da Educação de Jovens 
+                    e Adultos: Um Estudo Exploratório nas Escolas de Macau - RN</h4>
+                <p class="card-text">Notou-se que acontece a exclusão digital. Trazendo modelos de ensino ultrapassados, 
+                    limitados ao livro didático e que não compactuam com a realidade de uma sociedade moderna,
+                     as escolas não possuem estrutura para laboratórios de informática, os professores não
+                      possuem formação na área e os alunos têm seus direitos retirados.</p>
             </div>
         </div>
 
@@ -143,15 +189,7 @@
 
 
 
-        <div class="card text-start">
-            <div class="card-body">
-                <h4 class="card-title">Informações sobre a porcentagem de pessoas com necessidades especiais</h4>
-                <p class="card-text">Segundo o Censo Demográfico do IBGE, 45 milhões de pessoas apresentam 
-                    alguma necessidade especial, ou seja, cerca de 23,9% da população brasileira,
-                    em contrapartida, apenas 1% dos sites brasileiros foram aprovados nos testes de 
-                    acessibilidades divulgados pelo “Movimento Web Para Todos”.</p>
-            </div>
-        </div>
+
 
        
     </div>

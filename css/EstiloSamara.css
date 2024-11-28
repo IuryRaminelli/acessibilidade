@@ -1,3 +1,42 @@
+#titulo{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5em;
+    color:black;
+    margin-bottom: 20px;
+}
+
+.conteudo-titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Mantém os elementos centralizados */
+    gap: 40px;
+    margin-top: 20px;
+}
+
+/* Estilo da imagem (à direita) */
+.conteudo-titulo .head-right {
+    max-width: 30%; /* Reduz o tamanho máximo da imagem */
+    border-radius: 30px; /* Bordas arredondadas */
+    margin-left: 40px; /* Move a imagem para a direita */
+}
+
+/* Estilo do texto (à esquerda) */
+.conteudo-titulo .head-left {
+    max-width: 90%; /* Reduz o comprimento máximo do texto */
+    text-align: justify;
+    font-size: 0.9em; /* Ajuste do tamanho da fonte */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    color: black; /* Cor do texto */
+    border: 2px solid #0056b3; /* Adiciona borda ao redor do texto */
+    padding: 5px; /* Espaçamento interno */
+    border-radius: 10px; /* Arredonda a borda */
+    background-color: #f9f9f9; /* Fundo claro para destaque */
+    margin-right: 120px; /* Espaçamento à direita do texto */
+    justify-content: center;
+}
+
+
 /* Estilo base */
 body {
     font-family: Arial, sans-serif;
@@ -18,10 +57,7 @@ img {
 }
 
 
-h1 {
-    font-size: 1.8rem; /* Reduzido */
-    text-decoration: solid;
-}
+
 
 h2 {
     font-size: 1.2rem; /* Reduzido ainda mais */

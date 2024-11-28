@@ -38,10 +38,10 @@
                         <div class="offcanvas-body">
                             <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Interface Gráfica</a>
+                                    <a class="nav-link" href="paginainclusao.php">Interface Gráfica</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Normas e Padrões</a>
+                                    <a class="nav-link" href="NormasThiago.php">Normas e Padrões</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Computador</a>
