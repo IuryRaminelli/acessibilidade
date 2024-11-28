@@ -1,35 +1,154 @@
-
-footer {
+    footer {
     padding: 40px 0;
     border-top: 1px solid #dee2e6;
     color: #6c757d;
-}
-footer a {
+    }
+    footer a {
     color: #6c757d;
     text-decoration: none;
-}
-footer a:hover {
+    }
+    footer a:hover {
     color: #343a40;
     text-decoration: underline;
-}
-.footer-logo {
+    }
+    .footer-logo {
     margin: 0 15px;
-}
-.footer-logo img {
+    }
+    .footer-logo img {
     border-radius: 10px;
     transition: transform 0.3s;
-}
-.footer-logo img:hover {
+    }
+    .footer-logo img:hover {
     transform: scale(1.1);
-}
-.developed-by {
+    }
+    .developed-by {
     font-weight: bold;
-}
-@media (max-width: 768px) {
-    .text-left, .text-right {
+    }
+
+    body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f8f9fa;
+    }
+
+    @media (max-width: 768px) {
+    .text-left,
+    .text-right {
         text-align: center !important;
     }
     .mx-auto {
         margin-top: 20px;
     }
-}
+    }
+
+    .card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s;
+    }
+
+    .card:hover {
+    transform: scale(1.03);
+    }
+
+    .card-title {
+    color: #007bff;
+    }
+
+    .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+    }
+
+    .card-text {
+    font-size: 0.9em;
+    color: #555;
+    }
+
+    img {
+    border-radius: 8px;
+    }
+
+
+
+    #navbar-example3 {
+        max-height: 800px; 
+        overflow-y: auto; 
+        padding-right: 15px; 
+    }
+    
+    .btn {
+        background-color: rgb(37, 41, 68);
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+        border: none !important;
+        transition: all linear 160ms;
+        cursor: pointer;
+        margin: 0 !important;
+      }
+     
+      .btn:hover {
+        transform: scale(1.05);
+        background-color: rgb(37, 41, 68);
+        color: #fff;
+      }
+    
+      .btn-audio {
+        background-color: rgb(37, 41, 68);
+        color: #fff;
+        width: 70px;
+        height: 70px;
+        min-width: 70px;
+        min-height: 70px;
+        font-weight: 600;
+        border: none !important;
+        border-radius: 50%;
+        transition: all linear 160ms;
+        cursor: pointer;
+        margin: 0 !important;
+    }
+    
+    .btn-audio:hover {
+        transform: scale(1.05);
+        background-color: rgb(37, 41, 68);
+        color: #fff;
+    }
+
+    .scrollspy-example-2 {
+        height: 100vh; /* Altura total da viewport */
+        overflow-y: auto; /* Habilitar scroll interno */
+        padding: 2rem;
+        background-color: #fff;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+      }
+      
+      /* Para melhorar o visual em telas menores */
+      @media (max-width: 768px) {
+        .sidebar {
+          height: auto;
+          position: static;
+        }
+      
+        .scrollspy-example {
+          height: auto;
+        }
+      }
+
+    .scrollspy-example-2 div {
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+       
+    }
+    
+    .scrollspy-example-2 h4 {
+        margin-top: 20px;
+        font-size: 1.5em;
+    }
+
+    
+
+    
+
